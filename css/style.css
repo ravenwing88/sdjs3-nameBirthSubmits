@@ -1,0 +1,24 @@
+fieldset {
+    width: 300px;
+}
+  
+label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+  
+button {
+    display: block;
+    margin: 15px 0;
+}
+
+.hidden {
+    display: none;
+}
+
+/* this could stand to be more uniform with the selects */
+.day {
+    display: inline;
+    margin: 0;
+}
